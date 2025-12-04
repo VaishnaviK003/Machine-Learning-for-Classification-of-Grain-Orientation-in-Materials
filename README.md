@@ -34,7 +34,7 @@ Potential extensions include multi-orientation prediction, fine-tuning the full 
 ## Author Notes
 This pipeline was developed for **material microstructure characterization** and can be adapted to other anisotropic materials such as fiber-reinforced ceramics, metals, and composites.
 
-Acknowledgements:
+## Acknowledgements
 
 Dr. Iman Soltani: Thank you for all the interesting lectures on machine learning which paved way for this project. 
 
@@ -42,7 +42,7 @@ Dr. Valeria La Saponara & ACRES Lab: Thank you for sharing your work on mycelium
 
 Dr. Christina Cogdell & Team: Thank you for sharing your work on mycelium bricks which helped with understanding micro/macrostructural behavior.
 
-Data & Results:
+## Data & Result Files
 https://drive.google.com/drive/folders/1LNbNj1PwuwO5hYOSqTjDRiBqCtvYi-Ol?usp=sharing
 
 
